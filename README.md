@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Paulo Bof!
 
 - 👨‍🎓 Graduação: Engenharia de Controle e Automação (IMT-2011) / MBA Full Stack: Development, Desing, Engineergin e Deployment (FIAP-2022).
-- 🌱 Estudando: Java, Spring Boot, GoLang, MySQL, MongoDB, Cassandra, Docker e AWS.
+- 🌱 Estudando: Java, Spring Boot, MySQL, MongoDB, Cassandra, Docker e AWS.
 - 😄 Pronouns: Ele/dele
 
 
