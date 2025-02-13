@@ -4,11 +4,11 @@
 ### 👨‍🎓 Graduation
 - Engenharia de Controle e Automação (IMT-2011)
 - MBA Full Stack: Development, Desing, Engineergin e Deployment (FIAP-2022)
-- POSTECH Arquitetura e Desenvolvimento JAVA (FIAP-2024)
+- POSTECH Arquitetura e Desenvolvimento JAVA (FIAP-2025)
 
 ---
 ### 👨🏻‍💻 Contacts
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/paulobof-dev-backend-java)](https://www.linkedin.com/in/paulobof-dev-backend-java))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/paulobof)](https://www.linkedin.com/in/paulobof-dev-backend-java))
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511996293140)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.Ru&logoColor=white)](mailto:paulobof@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([(https://discordapp.com/users/900034453248806912)](https://discordapp.com/users/900034453248806912))
